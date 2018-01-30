@@ -7,8 +7,8 @@ library('dplyr') #manipulation
 library('mice') #inputation
 library('randomForest') #classification
 
-train <- read.csv('C:/Users/lfrap/Documents/R Course/Titanic/train.csv', stringsAsFactors = F)
-test <- read.csv('C:/Users/lfrap/Documents/R Course/Titanic/test.csv', stringsAsFactors = F)
+train <- read.csv('.../train.csv', stringsAsFactors = F)
+test <- read.csv('.../test.csv', stringsAsFactors = F)
 
 full  <- bind_rows(train, test) # bind training & test data
 
