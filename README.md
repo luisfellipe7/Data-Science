@@ -17,23 +17,23 @@ Presented in form of R markdown files and Python files.
           
           * Titanic Data
           
-           * Loan Prediction Data: TBD
-           
-           * Bigmart Sales Data: TBD
-           
-           * Boston Housing Data: TBD
-           
-           * Human Activity Recognition Data: TBD
+          * Melbourne Housing Data
           
-           * Black Friday Data: TBD
+          * Loan Prediction Data: TBD
            
-           * Census Income Data: TBD
+          * Bigmart Sales Data: TBD
+                   
+          * Human Activity Recognition Data: TBD
+         
+          * Black Friday Data: TBD
            
-           * Movie Lens Data: TBD
+          * Census Income Data: TBD
            
-           * Identify your Digits: TBD
+          * Movie Lens Data: TBD
            
-           * Chicago Crime Data: TBD
+          * Identify your Digits: TBD
+           
+          * Chicago Crime Data: TBD
            
            ----------
 
