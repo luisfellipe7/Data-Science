@@ -4,7 +4,7 @@ library(rpart) # for regression trees
 library(randomForest) # for random forests
 
 # read the data and store data in DataFrame titled melbourne_data
-melbourne_data <- read_csv("C:/Users/lfrap/Documents/R Course/Melbourne  House Data/melb_data.csv")
+melbourne_data <- read_csv(".../melb_data.csv")
 
 #printing a summary of the data
 summary(melbourne_data)
