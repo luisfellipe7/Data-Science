@@ -19,7 +19,7 @@ Presented in form of R markdown files and Python files.
           
           * Melbourne Housing Data
           
-          * Identify your Digits:
+          * Identify your Digits
           
           * Loan Prediction Data: TBD
            
