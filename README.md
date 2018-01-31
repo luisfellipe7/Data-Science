@@ -19,6 +19,8 @@ Presented in form of R markdown files and Python files.
           
           * Melbourne Housing Data
           
+          * Identify your Digits:
+          
           * Loan Prediction Data: TBD
            
           * Bigmart Sales Data: TBD
@@ -30,8 +32,6 @@ Presented in form of R markdown files and Python files.
           * Census Income Data: TBD
            
           * Movie Lens Data: TBD
-           
-          * Identify your Digits: TBD
            
           * Chicago Crime Data: TBD
            
