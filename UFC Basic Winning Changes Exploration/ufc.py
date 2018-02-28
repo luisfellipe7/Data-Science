@@ -9,7 +9,7 @@ print(check_output(["ls", "../input"]).decode("utf8"))
 
 # Any results you write to the current directory are saved as output.
 
-path = "C:/Users/Luis Fellipe/Documents/UFC Basic Winning Changes Exploration/input/data.csv"
+path = ".../input/data.csv"
 filename = 'finalout.csv'
 df = pd.read_csv(path + filename)
 df = df.fillna(0)
