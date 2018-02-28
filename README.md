@@ -24,7 +24,9 @@ Presented in form of R markdown files and Python files.
           * Loan Prediction Data: TBD
           
       * **Python**        
-          * Bigmart Sales Data: TBD
+          * Financial Distress Prediction
+          
+          * UFC Basic Winning Changes Exploration
                    
           * Human Activity Recognition Data: TBD
          
