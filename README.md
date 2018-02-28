@@ -21,8 +21,6 @@ Presented in form of R markdown files and Python files.
           
           * Identify your Digits
           
-          * Loan Prediction Data: TBD
-          
       * **Python**        
           * Financial Distress Prediction
           
