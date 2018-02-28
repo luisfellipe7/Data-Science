@@ -22,7 +22,8 @@ Presented in form of R markdown files and Python files.
           * Identify your Digits
           
           * Loan Prediction Data: TBD
-           
+          
+      * **Python**        
           * Bigmart Sales Data: TBD
                    
           * Human Activity Recognition Data: TBD
