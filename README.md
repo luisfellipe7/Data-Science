@@ -26,7 +26,7 @@ Presented in form of R markdown files and Python files.
           
           * UFC Basic Winning Changes Exploration
                    
-          * Human Activity Recognition Data: TBD
+          * Exploration of the World Bank Data
          
           * Black Friday Data: TBD
            
