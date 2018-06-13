@@ -9,9 +9,9 @@ from itertools import cycle
 pd.options.display.max_columns = 50
 
 # importing datasets
-df1 = pd.read_csv('C:/Users/Luis Fellipe/Documents/Exploration of the World Bank Data/input/bilateral-remittance.csv')
-df2 = pd.read_csv('C:/Users/Luis Fellipe/Documents/Exploration of the World Bank Data/input/remittance-inflow.csv')
-df3 = pd.read_csv('C:/Users/Luis Fellipe/Documents/Exploration of the World Bank Data/input/remittance-outflow.csv')
+df1 = pd.read_csv('../input/bilateral-remittance.csv')
+df2 = pd.read_csv('../input/remittance-inflow.csv')
+df3 = pd.read_csv('../input/remittance-outflow.csv')
 
 # seeing the raw data we have
 df2.head(10)
